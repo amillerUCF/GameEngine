@@ -1,1 +1,1 @@
-A modular game engine created using Visual Studios and C++.
+A modular game engine created using Visual Studio and C++.
